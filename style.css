@@ -1,0 +1,252 @@
+#footer{
+text-align: center;
+background-color:#837D7D;
+clear: both;
+}
+#kanalInteria{
+width: 100%;
+background-color: #0B10A8;
+text-align: center;
+}
+#kanalWP{
+width: 100%;
+background-color: #FF0000;
+text-align: center;
+}
+#kanalTVN{
+width: 100%;
+background-color: #61B2E8;
+text-align: center;
+}
+#kanalOnet{
+width: 100%;
+background-color: #94FF66;
+text-align: center;
+}
+#kanalPolsat{
+width: 100%;
+background-color: #FFFF66;
+text-align: center;
+}
+body{
+background-color: #C0C0C0;
+}
+#title1{
+    padding: 5px;
+    height: 30px;
+    text-align: center;
+    clear: both;
+    font-weight:bold;
+    font-size: larger;
+    border-radius: 10px;
+    border: 5px #0B10A8 solid;
+}
+#title2{
+    padding: 5px;
+    height: 30px;
+    text-align: center;
+    clear: both;
+    font-weight:bold;
+    font-size: larger;
+    border-radius: 10px;
+    border: 5px #FF0000 solid;
+}
+#title3{
+    padding: 5px;
+    height: 30px;
+    text-align: center;
+    clear: both;
+    font-weight:bold;
+    font-size: larger;
+    border-radius: 10px;
+    border: 5px #61B2E8 solid; 
+}
+#title4{
+    padding: 5px;
+    height: 30px;
+    text-align: center;
+    clear: both;
+    font-weight:bold;
+    font-size: larger;
+    border-radius: 10px;
+    border: 5px #94FF66 solid; 
+}
+#title5{
+    padding: 5px;
+    height: 30px;
+    text-align: center;
+    clear: both;
+    font-weight:bold;
+    font-size: larger;
+    border-radius: 10px;
+    border: 5px #FFFF66 solid; 
+}
+.blok{
+    width: 100%;
+    clear: both;
+    height: 120%;
+}
+#pause{
+    width: 100%;
+    height: 20px;
+    background-color: grey;
+    float:left;
+}
+#link{
+ font-size: 150%;
+}
+#desc{
+    width: 100%;
+    height: 250px;
+    text-align:center;
+    float: left;
+    color: black;
+}
+#link{
+    width: 100%;
+    height: 50px;
+    float: left;
+    text-align:center;
+    clear: both;
+    color: black;
+    margin-top:30px;
+}
+#data{
+    width: 100%;
+    height: 50px;
+    float:left;
+    clear:both;
+    color: black;
+    margin-bottom:20px;
+}
+img{
+    width: 30%;
+    float:left;
+    height:250px;
+    border-radius: 10px;
+    border: 5px #FFFFFF solid;
+}
+
+#komorka1{
+    width: 20%;
+    float:left;
+    height:150px;
+    text-align:center;
+    background-color: #0B10A8;
+}
+#komorka2{
+    width: 20%;
+    float:left;
+    height:150px;
+    text-align:center; 
+    background-color: #61B2E8;
+}
+#komorka3{
+    width: 20%;
+    float:left;
+    height:150px;
+    text-align:center;
+    background-color: #94FF66;
+}
+#komorka4{
+    width: 20%;
+    float:left;
+    height:150px;
+    text-align:center;
+    background-color: #FFFF66;
+}
+#komorka5{
+    width: 20%;
+    float:left;
+    height:150px;
+    text-align:center;
+    background-color: #FF0000;
+}
+
+@media (max-width: 700px) {
+    #title1,#title2,#title3,#title4,#title5{
+        font-size: 10px;
+    }
+    #desc{
+        font-size: 7px;
+    }
+    img{
+        height:100px;
+        width:30%px;
+        border-radius: 10px;
+    border: 2px #FFFFFF solid;
+    }
+    #desc{
+        width: 100%;
+        height: 100px;
+        text-align:center;
+        float: left;
+        color: black;
+    }
+    #link{
+        width: 30%;
+        font-size: 10px;
+        height: 15px;
+        float: right;
+        clear:none;
+        margin-top:0px;
+    }
+    #data{
+        font-size: 10px;
+        width: 100%;
+        height: 50px;
+        float:left;
+        margin-bottom:0px;
+    }
+    
+#link{
+ font-size: 80%;
+}
+    #komorka1{
+          font-size: 10px;
+    width: 20%;
+    float:left;
+    height:150px;
+    text-align:center;
+    background-color: #0B10A8;
+}
+#komorka2{
+      font-size: 10px;
+    width: 20%;
+    float:left;
+    height:150px;
+    text-align:center; 
+    background-color: #61B2E8;
+}
+#komorka3{
+      font-size: 10px;
+    width: 20%;
+    float:left;
+    height:150px;
+    text-align:center;
+    background-color: #94FF66;
+}
+#komorka4{
+      font-size: 10px;
+    width: 20%;
+    float:left;
+    height:150px;
+    text-align:center;
+    background-color: #FFFF66;
+}
+#komorka5{
+      font-size: 10px;
+    width: 20%;
+    float:left;
+    height:150px;
+    text-align:center;
+    background-color: #FF0000;
+    
+}
+#footer{
+text-align: center;
+background-color:#837D7D;
+clear: both;
+}
+    
+} 
