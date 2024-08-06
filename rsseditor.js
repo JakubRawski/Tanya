@@ -93,14 +93,14 @@ function choice(){
 /*
 feedy
 feed5 = "https://wiadomosci.wp.pl/rss.xml";
-feed3 = "https://wydarzenia.interia.pl/feed/"; //dziala
-feed1 = "https://tvn24.pl/najwazniejsze.xml"; //dziala
-feed2 = "https://www.polsatnews.pl/rss/wszystkie.xml"; //dziala
-feed = "https://wiadomosci.onet.pl/.feed"; //dziala JEZELI nie ma innych wrednych
+feed3 = "https://wydarzenia.interia.pl/feed/"; 
+feed1 = "https://tvn24.pl/najwazniejsze.xml"; 
+feed2 = "https://www.polsatnews.pl/rss/wszystkie.xml"; 
+feed = "https://wiadomosci.onet.pl/.feed"; 
 */
 //let source = "";
 
-//.then(data => console.log(data)) jakby cos sie ostro sprapralo
+//.then(data => console.log(data)) //debugging
 
 
 function promise(sauce) {
@@ -339,5 +339,4 @@ WPCBCheckbox.addEventListener('change', () => {
 
 choice();
 // TODO LIST
-//POSORTOWAC TEN SYF PO DACIE, EWENTUALNIE WYMIESZAC BY DAC ZLUDZENIE XDDDDDDDDDD
-//POPRAWIC CSS BO NAJPIEKNIEJSZY NIE JEST
+
